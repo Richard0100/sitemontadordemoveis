@@ -1,4 +1,4 @@
-#  codigo html sitemontadordemoveis
+#  codigo html  e CSS sitemontadordemoveis
 <doctype html>
 	<html lang="pt-br" =>
 	<head>
@@ -116,3 +116,55 @@
     <p>&copy; 2023 Richard Rodrigues. Todos os direitos reservados.</p>
 </footer>
 	</html>
+
+header{
+				font-family: Cursive Script;
+				font-size: 34px;
+				font-weight: bolder;
+				text-align: center;
+				color:white;
+				background-color: #006400;
+
+				background-size: cover;
+        }#nav {
+            background-color: #444;
+            text-align: center;
+            margin-top: 10px;
+            padding: 10px 0;
+        }
+        
+        #nav a {
+            text-decoration: none;
+            color: white;
+            margin: 0 20px;
+            font-size: 20px;
+        }
+        
+        #nav a:hover {
+            background-color: #555;
+        }body{
+				background-color:black;
+				font-family: cursive;
+				font-size:20px;
+				color: green;
+				text-align: center;
+		}h2, h2, h3, h4, h5, h6 {
+            font-size: 25px; /* Define o tamanho de fonte padrão para o <h2> */
+        }
+        .destaque {
+            font-size: 39px; /* Define o tamanho de fonte maior para o texto destacado */
+		}table{
+			background-color:black;
+				font-family: cursive;
+				font-size:16px;
+				color: green;
+				text-align: center;
+		}
+
+
+
+
+
+                    #codigo CSS:
+
+      
